@@ -7,9 +7,9 @@ the colors are not in orgder from darker to lighter but this code makes selectin
 
 from a large list of 2 colors for themes and accsents possible. Easy mix and match your 2 favorate colors.
 
-for your favorate football team for instance. or anything your hart dsesires.
+for your favorate football team for instance. or anything your hart desires.
 
-there are a a total of 237 themes all haveing 237 Accent's
+there are a a total of 237 themes all haveing 237 Accent colors.
 
 I'm hoping the color codes can become usefull in other future projects.
 
