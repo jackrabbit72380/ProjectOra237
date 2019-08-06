@@ -1,4 +1,4 @@
-# ProjectOra237
+# projectora237
 Themes & Accent's project for Windows Phone 7.8 Operating System Registry
 
 this code imports a total of 237 colors from the silverlight color library into the windows phone 7.8 registry 
