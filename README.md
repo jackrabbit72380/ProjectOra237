@@ -16,4 +16,4 @@ there are a a total of 237 themes all haveing 237 Accent colors.
 
 I'm hoping the color codes can become usefull in other future projects.
 
-feal free to use them for anything you like .
+feal free to use them for anything you like.
