@@ -1,5 +1,5 @@
 ## Screenshot
-![Screenshot](https://github.com/jackrabbit72380/ProjectOra237/blob/main/Screenshot.png)
+![Screenshot](https://github.com/jackrabbit72380/ProjectOra237/blob/main/dearsg.png)
 
 # projectora237
 Themes & Accent's project for Windows Phone 7.8 Operating System Registry
