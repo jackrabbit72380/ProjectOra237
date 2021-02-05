@@ -11,4 +11,4 @@ Or anything your hart desires.
 
 There are a a total of 237 themes all haveing 237 Accent colors.
 The color codes can become usefull in other future projects.
-feal free to use them for anything you like! yuo may change the format from .rgu to .txt if you need to.
+feal free to use them for anything you like! you may change the format from .rgu to .txt if you need to.
